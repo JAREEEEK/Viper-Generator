@@ -9,6 +9,9 @@ import UIKit
 
 class ___VARIABLE_productName:identifier___Router: ___VARIABLE_productName:identifier___RouterProtocol {
     
-    weak var viewController: UIViewController?
-    
+    weak private var viewController: UIViewController?
+
+    init(view: UIViewController?) {
+        self.viewController = view
+    }
 }
