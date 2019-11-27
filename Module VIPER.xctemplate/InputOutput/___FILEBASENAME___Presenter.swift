@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ___VARIABLE_productName:identifier___Presenter: ___VARIABLE_productName:identifier___PresenterProtocol, ___VARIABLE_productName:identifier___InteractorOutputProtocol {
+final class ___VARIABLE_productName:identifier___Presenter: ___VARIABLE_productName:identifier___PresenterProtocol, ___VARIABLE_productName:identifier___InteractorOutputProtocol {
 
     weak private var view: ___VARIABLE_productName:identifier___ViewProtocol?
     private let interactor: ___VARIABLE_productName:identifier___InteractorInputProtocol

@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ___VARIABLE_productName:identifier___Router: ___VARIABLE_productName:identifier___RouterProtocol {
+final class ___VARIABLE_productName:identifier___Router: ___VARIABLE_productName:identifier___RouterProtocol {
 
     private weak var viewController: UIViewController?
 

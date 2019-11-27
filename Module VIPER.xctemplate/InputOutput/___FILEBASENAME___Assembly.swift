@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ___VARIABLE_productName:identifier___Assembly {
+final class ___VARIABLE_productName:identifier___Assembly {
     static func assemble() -> UIViewController {
         let view = ___VARIABLE_productName:identifier___ViewController()
         let interactor = ___VARIABLE_productName:identifier___Interactor()

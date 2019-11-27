@@ -30,6 +30,7 @@ protocol ___VARIABLE_productName:identifier___InteractorInputProtocol: class {
 
 // MARK: View -
 protocol ___VARIABLE_productName:identifier___ViewProtocol: class {
-
+    func showError(with text: String)
+    
     /* Presenter -> ViewController */
 }
